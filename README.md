@@ -1,2 +1,2 @@
-# basic
+# Python
 Pengenalan python
